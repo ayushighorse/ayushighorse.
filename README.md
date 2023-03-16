@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 Ayushi Ghorse - [@ayushi_ghorse](https://instagram.com/ayushi_ghorse) - My Instagram
-Project Link: [https://github.com/LondheShubham153/fynd-my-movie](https://github.com/LondheShubham153/fynd-my-movie)
+Project Link: [https://github.com/ayushighorse/fynd-my-movie](https://github.com/ayushighorse/ghorsecoaching classes)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
